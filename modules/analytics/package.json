@@ -22,7 +22,7 @@
     "@types/node": "^10.11.0",
     "classnames": "^2.2.5",
     "module-builder": "../../build/module-builder",
-    "nanoid": "^2.0.0",
+    "nanoid": "^3.1.31",
     "react-select": "^1.2.0",
     "recharts": "1.0.0"
   }
